@@ -207,3 +207,14 @@ export class ChatConversarPage implements OnInit {
   }
 }
 ```
+# VEJA TAMBÉM
+## Grupo de Estudo no Telegram
+- [Clique para participar do grupo de estudo gratuitamente](https://t.me/blogilovecode)
+
+## Cursos baratos!
+- [Meus cursos](https://olha.la/udemy)
+
+## Novidades, cupons de descontos e cursos gratuitos
+https://olha.la/ilovecode-receber-cupons-novidades
+
+
