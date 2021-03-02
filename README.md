@@ -213,7 +213,8 @@ export class ChatConversarPage implements OnInit {
 - [Participe gratuitamente do grupo de estudo](https://t.me/blogilovecode)
 
 ## Cursos baratos!
-- [Meus cursos](https://olha.la/udemy)
+- [Meus cursos na Udemy](https://olha.la/udemy)
+- [Outros cursos](https://olha.la/cursos)
 
 ## Fique ligado, acesse!
 - [Blog ILoveCode](https://ilovecode.com.br)
