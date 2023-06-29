@@ -94,9 +94,16 @@ namespace Qsti.Suporte.Api
             app.UseMvc();
 
             //CONFIGURAÇÃO SIGNALR
-            app.UseSignalR(routes =>
+            //app.UseSignalR(routes =>
+            //{
+            //    routes.MapHub<ChatHub>("/hub");
+            //});
+
+            //.net 6 em diante
+            app.UseEndpoints(endpoints =>
             {
-                routes.MapHub<ChatHub>("/hub");
+                endpoints.MapControllers();
+                endpoints.MapHub<BiometriaFacialHub>("/biometriaFacialHub");
             });
 
             //Cria a documentação da Api de forma automatica
